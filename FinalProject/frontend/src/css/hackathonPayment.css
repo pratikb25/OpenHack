@@ -1,0 +1,12 @@
+#paymentDiv {
+    margin: 2%;
+}
+
+.right-aligned {
+    float: right;
+}
+
+.payment-method-images {
+    width:140px;
+    height: 70px;
+}

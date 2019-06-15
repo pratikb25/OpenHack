@@ -1,0 +1,4 @@
+# Persisting additional attributes for a relationship:
+https://thoughts-on-java.org/many-relationships-additional-properties/
+https://stackoverflow.com/questions/23837561/jpa-2-0-many-to-many-with-extra-column
+https://en.wikibooks.org/wiki/Java_Persistence/ManyToMany#Mapping_a_Join_Table_with_Additional_Columns

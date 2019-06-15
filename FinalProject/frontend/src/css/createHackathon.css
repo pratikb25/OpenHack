@@ -1,0 +1,105 @@
+#H1_1 {
+    color: rgb(57, 66, 78);
+    float: left;
+    height: 32px;
+    text-decoration: none solid rgb(57, 66, 78);
+    text-size-adjust: 100%;
+    width: 220.896px;
+    column-rule-color: rgb(57, 66, 78);
+    perspective-origin: 110.448px 36px;
+    transform-origin: 110.448px 36px;
+    caret-color: rgb(57, 66, 78);
+    border: 0px none rgb(57, 66, 78);
+    font: normal normal 100 normal 32px / 32px OpenSans;
+    margin: 0px;
+    outline: rgb(57, 66, 78) none 0px;
+    padding: 30px 0px 10px;
+}/*#H1_1*/
+
+#H1_1:after {
+    color: rgb(57, 66, 78);
+    text-decoration: none solid rgb(57, 66, 78);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(57, 66, 78);
+    caret-color: rgb(57, 66, 78);
+    border: 0px none rgb(57, 66, 78);
+    font: normal normal 100 normal 32px / 32px OpenSans;
+    outline: rgb(57, 66, 78) none 0px;
+}/*#H1_1:after*/
+
+#H1_1:before {
+    color: rgb(57, 66, 78);
+    text-decoration: none solid rgb(57, 66, 78);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(57, 66, 78);
+    caret-color: rgb(57, 66, 78);
+    border: 0px none rgb(57, 66, 78);
+    font: normal normal 100 normal 32px / 32px OpenSans;
+    outline: rgb(57, 66, 78) none 0px;
+}/*#H1_1:before*/
+
+.input-labels {
+    
+    padding: 10px;
+    font: normal normal 100 normal 20px / 32px OpenSans;
+}
+
+.form {
+    margin-left: 20px;
+}
+/* input field styling (because applying classes isn't working)*/
+
+.hack-inputs {
+    margin: 10px;
+    width: 20% 
+}
+
+#inputHackathonName {
+    margin: 10px;
+    width: 20%
+}
+
+#inputStartTime {
+    margin: 10px;
+    width: 20%
+}
+
+#inputendTime {
+    margin: 10px;
+    width: 20%
+}
+#inputDescription {
+    margin: 10px;
+    width: 50%;
+}
+#inputfee {
+    margin: 10px;
+    width: 20%
+}
+#inputJudgeOne {
+    margin: 10px;
+    width: 40%
+}
+#inputJudgeTwo {
+    margin: 10px;
+    width: 40%
+}
+
+#inputMinSize {
+    margin: 10px;
+    width: 10%
+}
+#inputMaxSize {
+    margin: 10px;
+    width: 10%
+}
+
+#inputSponsor {
+    margin: 10px;
+    width: 20%
+}
+
+#inputSponsorDiscount {
+    margin: 10px;
+    width: 20%
+}

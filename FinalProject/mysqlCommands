@@ -1,0 +1,4 @@
+sudo mysql_secure_installation // to reset root password
+create database openhack;
+create user ohadmin;
+grant all on openhack.* to 'ohadmin'@'%' identified by 'admin123';

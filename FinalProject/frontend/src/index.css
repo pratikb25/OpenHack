@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.panel-dashboard .panel-heading {
+  border-bottom: 1px solid #dbdbdb;
+  padding: 20px 0;
+  margin: 0 20px;
+  position: relative;
+}
+
+
